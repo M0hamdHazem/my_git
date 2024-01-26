@@ -1,5 +1,5 @@
 # my_git
 my first git
 
-#projectNotes
+# projectNotes
 
